@@ -1,0 +1,14 @@
+.forminput{
+    margin-bottom: 50px;
+}
+.input{
+    width:70%;
+    height: 30px;
+    margin: 0 20px;
+}
+
+.btn{
+    
+    background-color: #24a0ed;
+    color: aliceblue;
+}
